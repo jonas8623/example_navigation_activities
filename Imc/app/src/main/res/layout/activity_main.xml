@@ -50,7 +50,7 @@
         android:id="@+id/editTextHeight"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="numberSigned" />
+        android:inputType="numberDecimal" />
 
     <Button
         android:id="@+id/buttonCalculateResultActivity"

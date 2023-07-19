@@ -100,10 +100,10 @@
         android:textColor="#F44336" />
 
     <Button
-        android:id="@+id/buttonCalculateResultActivity"
+        android:id="@+id/buttonBackHome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="CALCULAR NOVAMENTE" />
+        android:text="VOLTAR" />
 
 </LinearLayout>
